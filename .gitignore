@@ -9,15 +9,29 @@ __pycache__/
 .venv/
 venv/
 
-# PDF documents
-data/pdfs/
+# Data directory structure
+data/*
+!data/chroma/
+!data/pdfs/
+!data/processed/
 
-# ChromaDB
-data/chroma/
+# Ignore contents of data subdirectories
+data/chroma/*
+!data/chroma/.gitkeep
 
-# Processed documents
-data/processed/
+data/pdfs/*
+!data/pdfs/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/pages/
+!data/processed/chunks/
+
+data/processed/pages/*
+!data/processed/pages/.gitkeep
+
+data/processed/chunks/*
+!data/processed/chunks/.gitkeep
 
 # Evaluation outputs
-eval/report.json
 .cache/
