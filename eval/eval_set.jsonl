@@ -1,0 +1,100 @@
+{"question": "What type of license does the source code in some of the chapters contain?", "filename": "ComputerNetworks.pdf", "page": 14, "page_end": 14}
+{"question": "What is the name of the earliest rate-scaling algorithm used in Wi-Fi?", "filename": "ComputerNetworks.pdf", "page": 114, "page_end": 115}
+{"question": "What is the arrangement of the three sending nodes in relation to the receiving node in the center?", "filename": "ComputerNetworks.pdf", "page": 855, "page_end": 856}
+{"question": "What is the unique-local IPv6 address?", "filename": "ComputerNetworks.pdf", "page": 895, "page_end": 895}
+{"question": "Can a counter-controlled do-while loop be used to solve a problem?", "filename": "ComputerScienceOne.pdf", "page": 25, "page_end": 26}
+{"question": "What type of variable names are most programming languages case sensitive?", "filename": "ComputerScienceOne.pdf", "page": 52, "page_end": 54}
+{"question": "What is the error code corresponding to the error message \"No such file or directory\"?", "filename": "ComputerScienceOne.pdf", "page": 340, "page_end": 342}
+{"question": "How much energy do Google Search and ChatGPT use?", "filename": "The Future is Now_ Empowering Society Through AI Literacy.pdf", "page": 545, "page_end": 546}
+{"question": "How many linearly separable dichotomies are contributed by each ambiguous labeling in the enlarged data set with P +1 feature vectors?", "filename": "The+Shallow+and+the+Deep.pdf", "page": 64, "page_end": 64}
+{"question": "What is the name of the structure that holds pointers to the functions used to implement the mapping protocol?", "filename": "c-api.pdf", "page": 268, "page_end": 269}
+{"question": "What is the purpose of the `__mro__` attribute in a class object?", "filename": "library.pdf", "page": 117, "page_end": 118}
+{"question": "Is there a way to transform numbers like 200, 200.000, 2E2, and 02E+4 into a single recognizable canonical value?", "filename": "library.pdf", "page": 366, "page_end": 366}
+{"question": "What is the result of calculating the population variance of the data [1.5, 2.5, 2.5, 2.75, 3.25, 4.75]?", "filename": "library.pdf", "page": 383, "page_end": 384}
+{"question": "Does os.lstat accept a path-like object?", "filename": "library.pdf", "page": 636, "page_end": 636}
+{"question": "What is the minimum number of bytes that can be written without blocking to a pipe when the pipe has been reported as ready for writing?", "filename": "library.pdf", "page": 1090, "page_end": 1090}
+{"question": "What is the purpose of the `dis.show_code` function?", "filename": "library.pdf", "page": 1952, "page_end": 1952}
+{"question": "What is the name of the class in the collections.abc module that is a subclass of Callable?", "filename": "library.pdf", "page": 2145, "page_end": 2145}
+{"question": "What is the title of the 2015 publication by Locatelli and coauthors?", "filename": "Fullreport-1.pdf", "page": 115, "page_end": 115}
+{"question": "What is the title of the 2015 study by De Oliveira Bordonal et al. about greenhouse gas balance from sugarcane plantation in south-central Brazil?", "filename": "Fullreport-1.pdf", "page": 292, "page_end": 292}
+{"question": "Will crop yields decline by 5-10% in southern European Russia by 2050 due to droughts?", "filename": "Fullreport-1.pdf", "page": 373, "page_end": 373}
+{"question": "What is the estimated number of people likely to be placed at new risk of zinc deficiency by 2050?", "filename": "Fullreport-1.pdf", "page": 730, "page_end": 730}
+{"question": "What is the title of the 2019 book edited by C. Menjívar, M. Ruiz, and I. Ness?", "filename": "Fullreport-1.pdf", "page": 832, "page_end": 832}
+{"question": "What time horizon is used to calculate GHG emissions in this report?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 19, "page_end": 19}
+{"question": "What is the title of the journal where Cui, L. and Y. Huang's 2018 article \"Exploring the Schemes for Green Climate Fund\" was published?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 211, "page_end": 211}
+{"question": "What is the title of the 2014 study by Hasegawa et al.?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 407, "page_end": 407}
+{"question": "What is the title of the study by Hausfather and G.P. Peters, published in 2020?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 407, "page_end": 407}
+{"question": "What is the range of avoided emissions for Demand-side measures in Sectoral 2.3?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 789, "page_end": 789}
+{"question": "What is one of the primary barriers to ambitious national-level action, according to Aklin and Mildenberger (2020)?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1470, "page_end": 1470}
+{"question": "Who is the only person listed from Australia?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1978, "page_end": 1979}
+{"question": "What is the name of the international organization that deals with international cooperation on climate change?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 2019, "page_end": 2019}
+{"question": "What types of mitigation pathways have been developed that could be consistent with 1.5°C?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 7, "page_end": 7}
+{"question": "What is the specific temperature limit being assessed in this report?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 67, "page_end": 68}
+{"question": "What is the title of the 2016 Summary Report by the Global CCS Institute?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 427, "page_end": 427}
+{"question": "What percentage of the world's countries have published all-sector energy roadmaps?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 431, "page_end": 431}
+{"question": "What is the title of the book written by Cumbers in 2012?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 543, "page_end": 543}
+{"question": "What types of responses are considered in the assessment, and how do they compare to the \"no-to-moderate response\" scenario?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 44, "page_end": 44}
+{"question": "How much higher is today's sea level compared to 1900?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 122, "page_end": 122}
+{"question": "What has killed thousands of people in the Cordillera Blanca since the 1940s?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 174, "page_end": 174}
+{"question": "What is the title of the study by Bjørgo et al. published in Commun., 10(1), 264?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 187, "page_end": 187}
+{"question": "What types of features in the Arctic ice provide habitat for ice algae?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 236, "page_end": 236}
+{"question": "What is the title of the book edited by M.B. Gerrard and G.E. Wannier?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 680, "page_end": 681}
+{"question": "What is the constant value that the variance differs by in the case of flicker FM noise compared to the case with periodically distributed dead time?", "filename": "nbstechnicalnote1337.pdf", "page": 313, "page_end": 314}
+{"question": "What is the value of the 8th row, 10th column?", "filename": "nbstechnicalnote1337.pdf", "page": 339, "page_end": 339}
+{"question": "What is the recommended flag to use with regexp_matches() in most cases?", "filename": "postgresql-18-A4.pdf", "page": 298, "page_end": 298}
+{"question": "What is the purpose of the \"simple\" dictionary template in the context of text search?", "filename": "postgresql-18-A4.pdf", "page": 532, "page_end": 532}
+{"question": "What is the name of the astronomical thesaurus dictionary created in the example?", "filename": "postgresql-18-A4.pdf", "page": 536, "page_end": 537}
+{"question": "What is the name of the schema that contains the function?", "filename": "postgresql-18-A4.pdf", "page": 1257, "page_end": 1258}
+{"question": "What is the result of the function `perl_set_int(5)`?", "filename": "postgresql-18-A4.pdf", "page": 1510, "page_end": 1510}
+{"question": "Does a foreign key constraint require a SHARE ROW EXCLUSIVE lock on the referenced table?", "filename": "postgresql-18-A4.pdf", "page": 1919, "page_end": 1919}
+{"question": "What is the role of the rewrite system in the realization of views?", "filename": "postgresql-18-A4.pdf", "page": 2407, "page_end": 2408}
+{"question": "What is the size of the IPv6 fixed header, which is twice the size of the IPv4 header?", "filename": "ComputerNetworks.pdf", "page": 247, "page_end": 248}
+{"question": "Can a routing update algorithm based on the distance-vector idea eliminate routing loops entirely?", "filename": "ComputerNetworks.pdf", "page": 289, "page_end": 290}
+{"question": "What is the maximum annual contribution limit for a 401k savings plan as of 2014?", "filename": "ComputerScienceOne.pdf", "page": 161, "page_end": 162}
+{"question": "What is the name of the data structure represented by the array-based solution?", "filename": "Data-Structures-Algorithms-and-the-Wisdom-to-Know-the-Difference-1792425972._print.pdf", "page": 226, "page_end": 227}
+{"question": "What is the term \"alignment\" in the context of AI safety, and what does it refer to?", "filename": "The Future is Now_ Empowering Society Through AI Literacy.pdf", "page": 307, "page_end": 308}
+{"question": "What is the title of the article by Dionne Condor-Farrell published on LinkedIn in 2024?", "filename": "The Future is Now_ Empowering Society Through AI Literacy.pdf", "page": 544, "page_end": 544}
+{"question": "Given a linearly separable data set, how can we find a perceptron weight vector w that satisfies equation (3.6)?", "filename": "The+Shallow+and+the+Deep.pdf", "page": 49, "page_end": 50}
+{"question": "What is the title of the book \"Applied Regression Analysis\" by N.R. Draper and H. Smith?", "filename": "The+Shallow+and+the+Deep.pdf", "page": 272, "page_end": 272}
+{"question": "What is the return type of the `tp_descrsetfunc` function?", "filename": "c-api.pdf", "page": 272, "page_end": 273}
+{"question": "What is the chapter number for the topic \"sched — Event scheduler\"?", "filename": "library.pdf", "page": 11, "page_end": 11}
+{"question": "What is the title of the section that covers using importlib.metadata, and what is the section number for this topic?", "filename": "library.pdf", "page": 20, "page_end": 20}
+{"question": "What happens when you modify an element of a list that is referenced multiple times in a sequence created with [[]] * 3?", "filename": "library.pdf", "page": 64, "page_end": 65}
+{"question": "Does a ZoneInfo object constructed from a file without specifying a key parameter have a valid representation that can be pickled?", "filename": "library.pdf", "page": 251, "page_end": 251}
+{"question": "How do you mark an existing task as removed in the heap data structure?", "filename": "library.pdf", "page": 281, "page_end": 282}
+{"question": "What happens to the __setstate__() method if __getstate__() returns a false value?", "filename": "library.pdf", "page": 483, "page_end": 484}
+{"question": "What is the default value for the separators parameter if indent is None?", "filename": "library.pdf", "page": 1174, "page_end": 1175}
+{"question": "What is the new feature introduced in version 3.11 that allows for introspecting overloaded functions at runtime?", "filename": "library.pdf", "page": 1552, "page_end": 1553}
+{"question": "Will generally raise NotImplementedError if executed on a 32-bit operating system?", "filename": "library.pdf", "page": 1974, "page_end": 1975}
+{"question": "What is the name of the class in the `typing` module that is a subclass of `set`?", "filename": "library.pdf", "page": 2136, "page_end": 2136}
+{"question": "What is the purpose of the \"except\" clause in the try statement?", "filename": "reference.pdf", "page": 5, "page_end": 5}
+{"question": "What is the mechanism used by the CPython interpreter to assure that only one thread executes Python bytecode at a time?", "filename": "using.pdf", "page": 69, "page_end": 70}
+{"question": "What countries are included in Category 1 method for low transmission countries and areas?", "filename": "9789240086173-eng.pdf", "page": 195, "page_end": 196}
+{"question": "What is the title of the 2013 study by Wheeler and Von Braun?", "filename": "Fullreport-1.pdf", "page": 315, "page_end": 316}
+{"question": "What is the term used to describe the heating of the dust layer, which can alter the relative humidity and atmospheric stability?", "filename": "Fullreport-1.pdf", "page": 357, "page_end": 357}
+{"question": "Does land degradation in the form of soil carbon loss have a long history, with evidence of ongoing degradation dating back at least 12,000 years?", "filename": "Fullreport-1.pdf", "page": 561, "page_end": 561}
+{"question": "What is the year of publication for the article \"Monitoring and assessing the influence of social, economic and policy factors on sustainable land management in drylands\"?", "filename": "Fullreport-1.pdf", "page": 653, "page_end": 654}
+{"question": "What percentage of GHG emissions would be reduced in Spain by following National Dietary Guidelines?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 816, "page_end": 816}
+{"question": "What percentage of a country's annual GDP is estimated to be the incremental investment need for sector transformation aiming at emission reduction of 50–80% in 2050?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1007, "page_end": 1007}
+{"question": "What types of mechanisms could be included in local transport plans to encourage behaviour change and adopt sustainable behaviour?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1066, "page_end": 1067}
+{"question": "What is the title of the book by Barber, J., published in 2021?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1135, "page_end": 1136}
+{"question": "Who is the only contributor listed with two countries of affiliation?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1258, "page_end": 1258}
+{"question": "What is the title of the 2013 study by Ingham, J. Ma, and A.M. Ulph?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1541, "page_end": 1542}
+{"question": "What is one example of a market-correcting approach to promote climate financing, according to the passage?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1563, "page_end": 1563}
+{"question": "What is the most specific code combination listed in the table?", "filename": "IPCC_AR6_WGIII_FullReport.pdf", "page": 1845, "page_end": 1845}
+{"question": "When was the Cancun Agreement adopted?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 93, "page_end": 93}
+{"question": "What is the focus of Chapter 3?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 190, "page_end": 191}
+{"question": "Can combining public guarantees with non-price measures support the emergence of financial products backed by a new class of certified assets?", "filename": "SR15_Full_Report_High_Res.pdf", "page": 393, "page_end": 393}
+{"question": "What is the key to climate-resilient development pathways (CRDPs)?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 100, "page_end": 100}
+{"question": "What is the topic of section 3.2?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 214, "page_end": 214}
+{"question": "What are the two main drivers of observed population changes of Southern Ocean higher predators?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 242, "page_end": 242}
+{"question": "What is the name of the glacier mentioned as an example in the context of ablation?", "filename": "SROCC_FullReport_FINAL.pdf", "page": 750, "page_end": 750}
+{"question": "What is the expression for the spectral density S(f) in terms of the variables f, r, and T?", "filename": "nbstechnicalnote1337.pdf", "page": 169, "page_end": 170}
+{"question": "What is the value of the variable 'X' in the first line of the second section?", "filename": "nbstechnicalnote1337.pdf", "page": 340, "page_end": 340}
+{"question": "Can a breadth-first order be achieved using the built-in syntax, and if so, what columns need to be specified?", "filename": "postgresql-18-A4.pdf", "page": 180, "page_end": 181}
+{"question": "Is it recommended to use a separate keytab file for the PostgreSQL server rather than the system keytab file?", "filename": "postgresql-18-A4.pdf", "page": 778, "page_end": 778}
+{"question": "What is the function interface for accessing fields of composite types from C in PostgreSQL?", "filename": "postgresql-18-A4.pdf", "page": 1320, "page_end": 1321}
+{"question": "Does listing foreign-data wrappers with the command \\df display access privileges, options, and description?", "filename": "postgresql-18-A4.pdf", "page": 2298, "page_end": 2298}
+{"question": "Will you be instructed to run commands to regenerate optimizer statistics after a pg_upgrade?", "filename": "postgresql-18-A4.pdf", "page": 2385, "page_end": 2386}
+{"question": "What type of indexing is used for the word column in the words table?", "filename": "postgresql-18-A4.pdf", "page": 3019, "page_end": 3020}
+{"question": "What is the recommended initial value of the IPv4 header TTL value for the originator of a RouteRequest?", "filename": "ComputerNetworks.pdf", "page": 293, "page_end": 294}

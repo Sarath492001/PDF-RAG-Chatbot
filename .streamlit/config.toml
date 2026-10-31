@@ -1,0 +1,5 @@
+[server]
+fileWatcherType = "none"
+maxUploadSize = 1024
+[browser]
+gatherUsageStats = false

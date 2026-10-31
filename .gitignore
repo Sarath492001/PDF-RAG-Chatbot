@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PDF documents
+data/pdfs/
+
+# ChromaDB
+data/chroma/
+
+# Processed documents
+data/processed/
+
+# Evaluation outputs
+eval/report.json
+.cache/
